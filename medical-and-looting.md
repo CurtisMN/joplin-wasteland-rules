@@ -1,4 +1,4 @@
-# Death
+# Medical and Looting
 
 After the two minute bleed out you are dead. If you get looted
 once, then you go back to your spawn, even if your two minutes are
