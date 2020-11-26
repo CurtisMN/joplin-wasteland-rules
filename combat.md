@@ -72,3 +72,4 @@ or mess with it by hand, however, shooting or throwing items at
 traps is legal.Traps go through armor, shields and power armor
 users are stunned for 30 seconds after being hit by a trap with
 the only exemption being grenade and gun traps.
+
