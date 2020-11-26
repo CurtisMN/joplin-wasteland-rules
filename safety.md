@@ -1,7 +1,9 @@
 # Game safety rules
-1. Safety/ Surrender Kills- Surrender kills are when you are within about 20ft or closer of your opponent. You may yell out surrender, if your opponent doesn’t surrender you may shoot them.
-2. Engagement Non Fps Rules- No blind fire and no physical fighting, other then with boffer weapons. Ricochet bb’s do not count and gun hits do not count as being hit. At all times you must keep your safety eye pro on. If you are in a safe area you must have your mag out, gun cleared, and on safe. You may have your eye pro off in a safe area.
-3. Engagement Fps Rules
+Safety/ Surrender Kills- Surrender kills are when you are within about 20ft or closer of your opponent. You may yell out surrender, if your opponent doesn’t surrender you may shoot them.
+
+Engagement Non Fps Rules- No blind fire and no physical fighting, other then with boffer weapons. Ricochet bb’s do not count and gun hits do not count as being hit. At all times you must keep your safety eye pro on. If you are in a safe area you must have your mag out, gun cleared, and on safe. You may have your eye pro off in a safe area.
+
+Engagement Fps Rules
 
 All guns will be measured using .20G BB’s 400Fps and under, no minimum engagement distance.
 
@@ -13,4 +15,4 @@ MG’s that shoot 401 to 450 Fps have a 60ft minimum engagement distance.
 
 451- 500Fps Bolt only.  Minimum engagement distance 90ft. You must have a sidearm that shoots under 400Fps and that can use semi fire to use indoors.
 
-4. Eye Pro-  Full seal eye pro is a must that is Z87+ rating. If under the age of 18, then you must have full face protection. Keep eye pro on at all times, unless you are in a safety area. If you are wishing to use mesh, please contact a Joplin Wasteland admin.
+Eye Pro-  Full seal eye pro is a must that is Z87+ rating. If under the age of 18, then you must have full face protection. Keep eye pro on at all times, unless you are in a safety area. If you are wishing to use mesh, please contact a Joplin Wasteland admin.
