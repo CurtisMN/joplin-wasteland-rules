@@ -1,5 +1,6 @@
 
-# Basics      
+# Basics
+
 ## Reloading    
 The only two ways to find ammo in the “wasteland” or to buy ammo
 from the NPCs. Prices may be different for each vendor and the
