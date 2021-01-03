@@ -28,3 +28,5 @@ in game and loot these items off of "bleeding out people.”
 These are not to be touched or messed with, as they may be
 personal player or NPC items. You can not use them, take them, or
 move them.
+## Bleed Out
+If affected by any “Combat Methods” you then have a one minute bleed out. You pull out your dead rag, say place and not use any “Combat Methods.” You must use the full one minute bleed out before you go back to spawn though anyone can be revived by anyone else with a stimpak during this bleed out time. Melee and perks can affect the basic bleed out rulings.   
