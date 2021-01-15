@@ -1,16 +1,8 @@
 # COMBAT
 ## Airsoft
-When shot, you then have a two minute bleed out.You must use the
-full two minute bleed out before you go back to spawn, though
-anyone can be revived by anyone else with a stimpak during this
-bleed out time.
+If hit in an unarmored spot, that causes Bleed Out .
 ## Melee
-If you melee someone, that is an instant kill and that player has
-no bleed out and must go to their respawn point, but before they
-leave you may loot the player.You may melee someone that is
-“bleeding out.” To melee, tap or lightly swipe your melee weapon
-on to your target and say “melee.” You may use a two hand touch to
-melee your victims, again say “melee” when doing so.
+Melee goes through armor and causes Bleed Out. You may melee someone that is “bleeding out.”  To melee, tap or lightly swipe your melee weapon on to your target and say “melee.” You may use a two hand touch to melee your victims, again say “melee” when doing so. 
 ## Energy(Foam Dart guns)
 Energy weapons are designated by Nerf darts or foam balls.Laser
 gun rounds go through armor and kill power armor users.When hit
