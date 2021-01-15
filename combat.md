@@ -14,7 +14,7 @@ Gas grenades are designated by yellow smoke, players wearing a proper gas appara
 Fire Grenades(Red)
 Fire grenades are designated by red smoke. Any unprotected player caught in this area of effect is now under Bleed Out rules.
 Radiation Grenades(Green)
-Radiation Grenades (Green) - Radiation grenades are designated by green smoke. When affected the victim may use a “rad-away stick” immediately and leave the area, otherwise they are now bleeding out. Any unprotected player caught in this area of effect is now under the Bleed Out rules.
+Radiation grenades are designated by green smoke. When affected the victim may use a “rad-away stick” immediately and leave the area, otherwise they are now bleeding out. Any unprotected player caught in this area of effect is now under the Bleed Out rules.
 ## Traps
 Some traps may be rigged with grenades. For these, follow any guidelines for the type of grenade released. Some traps may use airsoft guns, which you are to follow airsoft guidelines for bleed out. For safety and game play do not physically move or mess with the trap. Even if you see the trap before it goes off, do not move or mess with it.
 
