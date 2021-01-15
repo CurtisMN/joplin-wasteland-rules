@@ -16,3 +16,5 @@ MG’s that shoot 401 to 450 Fps have a 60ft minimum engagement distance.
 451- 500Fps Bolt only.  Minimum engagement distance 90ft. You must have a sidearm that shoots under 400Fps and that can use semi fire to use indoors.
 
 Eye Pro-  Full seal eye pro is a must that is Z87+ rating. If under the age of 18, then you must have full face protection. Keep eye pro on at all times, unless you are in a safety area. If you are wishing to use mesh, please contact a Joplin Wasteland admin.
+
+Face Masks- Face will be a part of PPE for this game. You are allowed to remove your face mask to drink, eat or if you are in your personal vehicle.
