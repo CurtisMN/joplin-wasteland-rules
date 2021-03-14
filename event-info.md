@@ -1,13 +1,11 @@
-### Joplin Wasteland is proud to present our next event, The Winter Storm.
+# Data
+Joplin Wasteland is proud to present our next event, The Rise of Woodsend. March's story will follow Wate-Pa's last story, The Winter Storm. The raiders lead by Tim the Enhancer have taken over the town of Wate-pa. The mayor as been taken hostage and the sheriff fled the town after lying to the raiders, choosing to return a favor to Mr. Jones. Who was gunned down by the twisted judge and his town lackeys. Due to Tim the Enhancer not completing the ritual in Junk Town the storm was ended. Thus the sheriff and Mr. Jones would leave Wate-pa and make their way to the HQ of the Exit 4 Trade Guild. Soon after Exit 4 would send out a trade guild merchant named Snip Snap to deal with the Wate-pa problem. He would then set up shop in Woodsend, a small abandoned town outside of Wate-pa. The Bandit leader Cookie would be saved by a bandit that was not gunned down, vowing revenge on Mr. Jones of some kind. Soon after, a group of new bandits would take over the woods. All the meanwhile The Lord of Blood would make his way to Wata-pa. Hearing the deeds of his student to the great old ones, Tim the Enchanter.
 
-Nuclear winter as hit the town of Wate-Pa, making the wasteland a frozen pit of death. The town under is lockdown, with only guides and their groups having the means to brave the cold outside. The Trade Guild as left, leaving behind a few poor guards that have became highway bandits to fight for what they need. A group of raiders that worship the nuclear winter and the art of the Sword have over taken Raider Ruins, calling themselves the Frozen Blades. Some have even heard tales of a wandering beast and ghouls out in the wasteland. Will you be a Town Wanderer, a lost guard of the Trade Guild, a raider of the frozen blades or maybe a beast/ ghoul of the icy plains of Wate-Pa? Whatever you choose, gear up and get ready for The Winter Storm.
+## Tickets Prices
+25$ Game charge fee
 
-Tickets Prices- 20$ Game charge fee
-
-Time events- 16th of January 2021, 10am sign in, 1130pm game briefs, 12pm game begins, 7pm item turn in and game ends.
-
-Please read the rules as this is an airsoft and larp event.
-
+## Time events
+20th of March 2021, 9am sign in opens, 10am sign in closes, 1030am game begins, 130pm game break, 2pm game starts back up. 5pm item turn in and game ends.
+Please read the rules as it outlines the safely guild lines as this is an airsoft and larp event.
 In this event, all player ammo will be proved at the event. The player may bring out their own ammo to give to an ammo vendor.
-
 When a player joins a said group they will be marked with their colors and will now spawn at said group's spawn, until they quit that group. Note if a player is apart of a Npc group they can not use the Wanderer spawn.
