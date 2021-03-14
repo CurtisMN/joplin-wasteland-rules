@@ -1,6 +1,7 @@
 
 # BASICS:
-Reloading - The only two ways to find ammo in the “wasteland” or to buy ammo from the NPCs. Prices may be different for each vendor and the weight they sell for Caps.
+## Reloading
+The only two ways to find ammo in the “wasteland” or to buy ammo from the NPCs. Prices may be different for each vendor and the weight they sell for Caps.
 
 ## In Game Currency
 The Currency used in this game is marked “ Caps.” You can earn these caps by performing roles, quests, jobs, looting other players/ NPC’s, selling items, and/or looting loot boxes. Red caps are worth one, blue are worth five and yellow are worth ten. 
